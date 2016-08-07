@@ -1,0 +1,14 @@
+layout_spectrum: 0.2647228972055018
+typography_spectrum: 0.8857295154593885
+color:
+  brandStrength: 0.7293498448561877
+  lightness: 0.23665288602933288
+  saturation: 0.9741901447996497
+  rhythmicContrast: 0.5688792350701988
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Speechy
